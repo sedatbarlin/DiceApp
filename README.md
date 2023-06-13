@@ -7,4 +7,5 @@
   
 ## 🎥 App introduction video
 
-<img width="350" alt="screen" src="https://github.com/sedatbarlin/DiceApp/assets/71966913/6cc00d41-a7be-4974-809c-623145b404da">
+https://github.com/sedatbarlin/DiceApp/assets/71966913/62699adc-7a00-4671-874a-f212969c22b6
+
